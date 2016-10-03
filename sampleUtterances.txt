@@ -1,0 +1,5 @@
+GetEarliestHoldingDate when I am in holding
+GetEarliestHoldingDate when I'm in holding
+GetEarliestHoldingDate when am I in holding
+GetEarliestHoldingDate when do I have holding
+GetEarliestHoldingDate when should I be in holding
