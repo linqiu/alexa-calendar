@@ -3,3 +3,8 @@ GetEarliestHoldingDate when I'm in holding
 GetEarliestHoldingDate when am I in holding
 GetEarliestHoldingDate when do I have holding
 GetEarliestHoldingDate when should I be in holding
+GetNextDayStartTime when I start tomorrow
+GetNextDayStartTime when do I have to work tomorrow
+GetNextDayStartTime when do I work tomorrow
+GetNextDayStartTime when I work tomorrow
+GetNextDayStartTime when do I start work tomorrow
